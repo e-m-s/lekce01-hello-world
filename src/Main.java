@@ -11,6 +11,8 @@ public class Main {
         // GitHub Copilot jůlfijliasjůilgjaliůgjalůigjaliůjgailjgalij gliarj
         // Komentář - řádkový
 
+        System.out.println("Třetí výpis na obrazovku.");
+
         /*
          * Komentář - blokový
          * Když potřebuji napsat komentář s více řádky.
